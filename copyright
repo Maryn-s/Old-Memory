@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Old-Memory
 Upstream-Contact: Myvee Somer <myvee.happy@gmail.com>
-Source: https://github.com/myvee/Old-Memory
+Source: https://github.com/Maryn-s/Old-Memory
 
 Files:
   images/*
