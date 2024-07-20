@@ -237,6 +237,7 @@ outfit "Impulse Barrage Cannon"
 	"outfit space" -165
 	"weapon capacity" -165
 	"gun ports" -1
+	"spinal mount" -1
 	weapon
 		sprite "projectile/Impulse Bolt"
 			"scale" 1.5
@@ -366,6 +367,7 @@ outfit "Sosori Auto-Launcher"
 	"gun ports" -1
 	"sosori capacity" 105
 	"required crew" 1
+	"spinal mount" -1
 	weapon
 		sprite "projectile/Sosori Projectile"
 			"scale" 1.5

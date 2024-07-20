@@ -22,8 +22,7 @@ outfit "Vehement Ion Cannon"
 	"hull" 9422
 	"gun ports" -1
 	"required crew" 2
-	"critical hull integrity" 1
-	"unplunderable" 1
+	"spinal mount" -1
 	weapon
 		sprite "projectile/Vehement Ion live"
 			"frame rate" 1
@@ -64,8 +63,7 @@ outfit "Vehement Plasma Cannon"
 	"hull" 9422
 	"gun ports" -1
 	"required crew" 2
-	"critical hull integrity" 1
-	"unplunderable" 1
+	"spinal moount" -1
 	weapon
 		sprite "projectile/Vehement Plasma live"
 			"frame rate" 1

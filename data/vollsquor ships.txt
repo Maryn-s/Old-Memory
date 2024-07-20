@@ -103,7 +103,7 @@ ship "Vehement A Battleship"
 		"weapon capacity" 660
 		"engine capacity" 245
 		"hull integrity" -4
-		"critical hull integrity" -2
+		"spinal mount" 2
 		"gaslining" 1
 		"roguedrifting" 1
 		weapon

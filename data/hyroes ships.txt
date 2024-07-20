@@ -112,6 +112,7 @@ ship "LVI Battleship"
 		"outfit space" 6266
 		"weapon capacity" 2652
 		"engine capacity" 574
+		"spinal mount" 12
 		"gaslining" 1
 		"roguedrifting" 1
 		"hyperphase branching" 1
@@ -201,6 +202,7 @@ ship "DZN Frigate"
 		"outfit space" 1510
 		"weapon capacity" 383
 		"engine capacity" 365
+		"spinal mount" 1
 		"hyperphase branching" 1
 		"gaslining" 1
 		"roguedrifting" 1
@@ -401,6 +403,7 @@ ship "Mark II Incise"
 		"outfit space" 1935
 		"weapon capacity" 785
 		"engine capacity" 220
+		"spinal mount" 2
 		"gaslining" 1
 		"roguedrifting" 1
 		"hyperphase branching" 20
