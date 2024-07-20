@@ -21,6 +21,13 @@ mission "Mysterious Megastructure: First Visit"
 		fail
 	on offer
 		event "Add Lost Delirium"
+		set "license: OM Pilot"
+		set "license: Ebulum"
+		set "license: Lucentbit"
+		set "license: MF Researcher"
+		set "license: Vollsquor"
+		set "license: OM Navy"
+		set "license: Losan"
 
 event "Add Lost Delirium"
 	system "Lost Delirium"
