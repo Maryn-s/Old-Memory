@@ -451,4 +451,5 @@ ship "Mark II Incise"
 	explode "large explosion" 45
 	explode "huge explosion" 30
 	"final explode" "final explosion large"
-	description "This finalization of the Incise prototype can be considered the most powerful warship to datec, consisting of the most advanced technologies in the Old Memory galaxy. The initial cost is tremendous, but the fast assembly and overall cheaper maintenance cost has made it a more favorable alternative to other warships in the Hyroes Navy."
+	description "This finalization of the Incise prototype can be considered the most powerful warship to date, consisting of the most advanced technologies in the Old Memory galaxy. The initial cost is tremendous, but the fast assembly and overall cheaper maintenance cost has made it a more favorable alternative to other warships in the Hyroes Navy."
+
